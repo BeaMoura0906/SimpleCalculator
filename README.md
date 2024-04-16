@@ -9,7 +9,7 @@ Ce projet est une application de bureau qui fonctionne comme une calculatrice. E
 - Effacement de la dernière entrée ou de toutes les entrées.
 - Affichage du résultat des calculs.
 
-![Screenshot of SimpleCalculator](sreens/screen_simple_calculator.png)
+![Screenshot of SimpleCalculator](screens/screen_simple_calculator.png)
 
 ## Prérequis
 
