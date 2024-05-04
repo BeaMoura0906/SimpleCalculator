@@ -1,4 +1,4 @@
-# Calculatrice Simple
+# SimpleCalculator
 
 Ce projet est une application de bureau qui fonctionne comme une calculatrice. Elle permet à l'utilisateur de faire des opérations de base telles que l'addition, la soustraction, la multiplication et la division.
 
@@ -28,3 +28,9 @@ Pour exécuter cette application, vous aurez besoin de :
 ## Développement
 
 Ce projet a été développé avec l'IDE IntelliJ IDEA. Le code source est disponible dans le répertoire `src/main/java/org/example`.
+
+## Auteur 
+
+Beatriz Moura - Développement initial | @BeaMoura0906
+
+Ce projet a été réalisé en cours de formation dans le cadre d'un BTS SIO option SLAM (1ère année).
